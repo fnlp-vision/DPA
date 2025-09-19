@@ -193,11 +193,14 @@ Run ablations by modifying the training scripts and comparing results.
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{dpa2025,
-  title={Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLMs},
-  author={[Chenkun Tan, Pengyu Wang, Shaojun Zhou, Botian Jiang, Zhaowei Li, Dong Zhang, Xinghao Wang, Yaqian Zhou, Xipeng Qiu]},
-  booktitle={Proceedings of EMNLP 2025},
-  year={2025}
+@misc{tan2025decoupledproxyalignmentmitigating,
+      title={Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLM}, 
+      author={Chenkun Tan and Pengyu Wang and Shaojun Zhou and Botian Jiang and Zhaowei Li and Dong Zhang and Xinghao Wang and Yaqian Zhou and Xipeng Qiu},
+      year={2025},
+      eprint={2509.14735},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.14735}, 
 }
 ```
 
