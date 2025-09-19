@@ -4,6 +4,8 @@ This repository contains the official implementation of our EMNLP 2025 paper:
 
 **"Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLMs"**
 
+📄 **Paper**: [arXiv:2509.14735](https://arxiv.org/abs/2509.14735)
+
 ## 📖 Overview
 
 ![DPA Method Overview](assets/main_0520.png)
